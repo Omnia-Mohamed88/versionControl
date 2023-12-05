@@ -27,8 +27,16 @@
 #### cd my_local_repo
 
 
-Create a File with Your Full Name:
-echo "Your Full Name" > full_name.txt
+##### Create a File with Your Full Name:
+##### echo "Your Full Name" > full_name.txt
+
+#### Create a Remote Repository on GitHub:
+
+##### Go to GitHub and create a new repository.
+
+##### Link Local and Remote Repositories.
+
+##### Add, Commit, and Push:
 
 #### 3-Host your project with github pages
 
