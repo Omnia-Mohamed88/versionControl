@@ -20,6 +20,12 @@
 
 ![UNFOUND](https://github.com/Omnia-Mohamed88/versionControl/blob/master/vc/vc7.png)
 
+### Step 1
+#### Open a terminal on your local machine.
+
+#### Navigate to the directory where you want to create the new local repository
+#### Create a new Git repository.
+
 #### 3-Host your project with github pages
 
 ![UNFOUND](https://github.com/Omnia-Mohamed88/versionControl/blob/master/vc/vc8.png)
